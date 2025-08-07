@@ -36,8 +36,8 @@ Bem-vindo ao repositório de estudos de C++ e Algoritmos! Este projeto tem como 
 ## 📂 Estrutura do Repositório
 
 ```
-├── projects/         # Projetos pequenos para prática
-├── exercises/        # Soluções de exercícios
+├── projetos/         # Projetos pequenos para prática
+├── exercicios/        # Soluções de exercícios
 
 
 ## 🛠️ Como Usar
