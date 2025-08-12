@@ -1,9 +1,19 @@
-//Exercicio 1
-
 #include <iostream>
 using namespace std;
 
-int main() { //incio da funcao principal
-  cout << "Oi Mundo\n";
-  
+int main()
+{
+  cout << "\tJOGO DA VELHA\n";
+  cout << "\t---------------\n";
+  cout << "\t | \t | \t\n";
+  cout << "\t---------------\n";
+  cout << "\t | \t | \t\n";
+  cout << "\t---------------\n";
+  cout << "\t | \t | \t\n";
+  cout << "\t---------------\n";
+
+  cout << "Pressione Enter para continuar...";
+  cin.ignore().get(); // Substitui system("PAUSE") para maior portabilidade
+
+  return 0;
 }
